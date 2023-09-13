@@ -9,5 +9,4 @@ public class SimpleRestDbApplication {
     public static void main(String[] args) {
         SpringApplication.run(SimpleRestDbApplication.class, args);
     }
-
 }
